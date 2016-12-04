@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480828498 source:c:\program files (x86)\codeblocks\mingw\tt\main.cpp
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<stdlib.h>
+
